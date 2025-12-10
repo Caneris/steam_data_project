@@ -229,10 +229,11 @@ class SteamScraper:
 # ============ Main ============
 
 def main():
-    config = ScraperConfig(
-        test_mode=True,   # Set to False for full run
-        test_limit=10
-    )
+    # config = ScraperConfig(
+    #     test_mode=True,   # Set to False for full run
+    #     test_limit=10
+    # )
+    config = ScraperConfig()
     scraper = SteamScraper(config)
     scraper.run()
 
