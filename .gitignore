@@ -1,1 +1,4 @@
 .env
+
+# everything in checkpoints folder
+checkpoints/
