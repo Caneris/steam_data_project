@@ -1,0 +1,1900 @@
+{
+    "2621440": {
+        "type": "game",
+        "name": "Infinity Castle Dungeon",
+        "steam_appid": 2621440,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<h2 class=\"bb_tag\" >Battles</h2>Immerse yourself in a world of endless battles and challenges. Infinity Castle Dungeon will give you the opportunity to test your mind and reaction, but be careful - the world of Infinity Castle Dungeon does not forgive mistakes.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.poster.avif?t=1725608681\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.webm?t=1725608681\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.mp4?t=1725608681\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Procedural Map Generation</h2>The castle in Infinity Castle Dungeon is not just walls, it is alive and only it knows what the next room will be in front of you. Don't forget to stock up on resources and luck and go to the unique world of Infinity Castle Dungeon.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.poster.avif?t=1725608681\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.webm?t=1725608681\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.mp4?t=1725608681\" type=\"video/mp4\"></video></span>",
+        "about_the_game": "<h2 class=\"bb_tag\" >Battles</h2>Immerse yourself in a world of endless battles and challenges. Infinity Castle Dungeon will give you the opportunity to test your mind and reaction, but be careful - the world of Infinity Castle Dungeon does not forgive mistakes.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.poster.avif?t=1725608681\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.webm?t=1725608681\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/021f758ea03e61ec3981fb4aa721ebe7.mp4?t=1725608681\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Procedural Map Generation</h2>The castle in Infinity Castle Dungeon is not just walls, it is alive and only it knows what the next room will be in front of you. Don't forget to stock up on resources and luck and go to the unique world of Infinity Castle Dungeon.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.poster.avif?t=1725608681\" width=614 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.webm?t=1725608681\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/extras/ea897096a29a5ac6604de9c527f863da.mp4?t=1725608681\" type=\"video/mp4\"></video></span>",
+        "short_description": "Infinity Castle Dungeon is a game that combines Hardcore and Roguelike. You have only one life, an infinite castle where all battles and challenges take place in real time. The castle is generated procedurally so each journey will be unique.",
+        "supported_languages": "English, Ukrainian, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Hungarian, Greek, Danish, Indonesian, Simplified Chinese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Turkish, Finnish, Czech, Swedish, Japanese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/header.jpg?t=1725608681",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/capsule_231x87.jpg?t=1725608681",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/capsule_184x69.jpg?t=1725608681",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 11 / 10 / 8 / 7 / Vista / XP<br></li><li><strong>Processor:</strong> 2.4 GHz Quad Core 2.0<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Discrete video card<br></li><li><strong>Storage:</strong> 299 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>VR Support:</strong> No</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 11 / 10 / 8 / 7 / Vista / XP<br></li><li><strong>Processor:</strong> 2.4 GHz Quad Core 2.0 (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Discrete video card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 299 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>VR Support:</strong> No</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "Morty's Develop"
+        ],
+        "publishers": [
+            "Morty's Develop"
+        ],
+        "price_overview": {
+            "currency": "CHF",
+            "initial": 449,
+            "final": 449,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CHF 4.49"
+        },
+        "packages": [
+            940371
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Infinity Castle Dungeon",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 940371,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Infinity Castle Dungeon - CHF 4.49",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 449
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_05629680469195666504f35577266d4dc8a96c36.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_05629680469195666504f35577266d4dc8a96c36.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_547b0d2f4ec5d8c10937d371d91f39fda850dd3e.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_547b0d2f4ec5d8c10937d371d91f39fda850dd3e.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_4d04b4179aeb8d6eb116fa08e4c285e88507d344.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_4d04b4179aeb8d6eb116fa08e4c285e88507d344.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_e37bc04159e27d18422dc5414a04afa8aea5ec2f.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_e37bc04159e27d18422dc5414a04afa8aea5ec2f.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_3b19fc5644ee16e2e64ae5c30aac8d40af1f9ff9.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_3b19fc5644ee16e2e64ae5c30aac8d40af1f9ff9.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_dcf1d7d20c28bc4f70f4f036a6baa053114339fb.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_dcf1d7d20c28bc4f70f4f036a6baa053114339fb.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_477986e0812f8eec4a2220bd4cfa12aa0ff8e0f5.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_477986e0812f8eec4a2220bd4cfa12aa0ff8e0f5.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_b234724f36c5cf71e78f881ad1540b6063909745.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_b234724f36c5cf71e78f881ad1540b6063909745.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_3c1829b36ab1c27a94705f00ef1b147b695cb9df.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_3c1829b36ab1c27a94705f00ef1b147b695cb9df.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_418f885a7e7660c4c6eab57861873e1e2c16eae3.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_418f885a7e7660c4c6eab57861873e1e2c16eae3.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_5f0dfbba171a68b0cfc971d1197351c66a4cfba1.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_5f0dfbba171a68b0cfc971d1197351c66a4cfba1.1920x1080.jpg?t=1725608681"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_78e152bf6ed13cb30de3bc35292e2c0b4ad1a44e.600x338.jpg?t=1725608681",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/ss_78e152bf6ed13cb30de3bc35292e2c0b4ad1a44e.1920x1080.jpg?t=1725608681"
+            }
+        ],
+        "movies": [
+            {
+                "id": 257046553,
+                "name": "Release Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046553/movie.293x165.jpg?t=1723741457",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2621440/740996/32a90e89444d16b9a2591655b09f5f39c0d2cefe/1750937070/dash_av1.mpd?t=1723741457",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2621440/740996/32a90e89444d16b9a2591655b09f5f39c0d2cefe/1750937070/dash_h264.mpd?t=1723741457",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2621440/740996/32a90e89444d16b9a2591655b09f5f39c0d2cefe/1750937070/hls_264_master.m3u8?t=1723741457",
+                "highlight": true
+            },
+            {
+                "id": 257023669,
+                "name": "Gameplay Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257023669/movie.293x165.jpg?t=1715873956",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2621440/701040/5c5c899902252361e5c25a3365970e2c82ecbac6/1750937069/dash_av1.mpd?t=1715873956",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2621440/701040/5c5c899902252361e5c25a3365970e2c82ecbac6/1750937069/dash_h264.mpd?t=1715873956",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2621440/701040/5c5c899902252361e5c25a3365970e2c82ecbac6/1750937069/hls_264_master.m3u8?t=1715873956",
+                "highlight": true
+            }
+        ],
+        "achievements": {
+            "total": 11,
+            "highlighted": [
+                {
+                    "name": "FIRST KILL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/6159374ffcf5bca5e1518df74c2fdabaca223f80.jpg"
+                },
+                {
+                    "name": "TUTORIAL COMPLETED",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/4d67421b7b6ec7721a23932ba8af1debd6422a33.jpg"
+                },
+                {
+                    "name": "FIRST LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/f3e7b6d6aa5cb82958601237a91432f07c86ce4e.jpg"
+                },
+                {
+                    "name": "SECOND LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/a15257654a51e336ccd52452353ef1ca1c0cbbab.jpg"
+                },
+                {
+                    "name": "THIRD LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/9123d3749c12cc3e97388cabc1bbbf9013f873bb.jpg"
+                },
+                {
+                    "name": "FOURTH LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/dcd590ae122ce053d0798ef4eabeabb16c268c09.jpg"
+                },
+                {
+                    "name": "FIFTH LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/de70aae70be932b421107164ad45e55732d2db49.jpg"
+                },
+                {
+                    "name": "SIXTH LEVEL",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/82bf5e51b198b551099f05596a55791307266f65.jpg"
+                },
+                {
+                    "name": "ALL STONES",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/941e9bd0149cbfe1f62b174c02fc8e813f3fdd6b.jpg"
+                },
+                {
+                    "name": "FINAL BOSS",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2621440/2ed6fd939e457bc22b45a99231857f5db08aef29.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "19 Aug, 2024"
+        },
+        "support_info": {
+            "url": "",
+            "email": "infinitycastledungeon@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2621440?t=1725608681",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621440/page_bg_raw.jpg?t=1725608681",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "l",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "0",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            }
+        }
+    },
+    "1048580": {
+        "type": "game",
+        "name": "Terje Haakonsen's Powder VR",
+        "steam_appid": 1048580,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/extras/d2b58924c3b8563c8c175df704b0bd05.avif?t=1670838188\" width=616 height=352 /></span><br><br>Terje Haakonsen's Powder VR is the ultimate VR winter sports game. Put on your headset and ride the freshest powder VR has to offer. Pick your line and your method, fly through ice and snow at crushing velocity. Face every challenge with speed, precision, and skill- master the mountain from 14,000 ft. and dominate the rugged terrain.<br><br><ul class=\"bb_ul\"><li> Hit the slopes and choose between <strong>skiing</strong>, <strong>snowboarding</strong>, and <strong>wingsuiting</strong> your way to the finish!<br></li><li> Fight the clock and the terrain- drop down sheer cliffs, soar over glaciers, and slide across frozen lakes, dense forests and abandoned towns.<br></li><li> Obliterate every speed record in the <strong>downhill race</strong>, score the highest points with the sickest tricks in <strong>freestyle</strong>, or navigate the perfect line in <strong>slalom</strong>.<br></li><li> Adjustable comfort settings and gameplay <strong>optimized to reduce VR motion sickness</strong>.<br></li><li> Choose between <strong>arcade</strong> and <strong>simulation</strong> styles to enhance the feeling of shredding the mountainside and the raw thrill of catching big air.</li></ul>",
+        "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/extras/d2b58924c3b8563c8c175df704b0bd05.avif?t=1670838188\" width=616 height=352 /></span><br><br>Terje Haakonsen's Powder VR is the ultimate VR winter sports game. Put on your headset and ride the freshest powder VR has to offer. Pick your line and your method, fly through ice and snow at crushing velocity. Face every challenge with speed, precision, and skill- master the mountain from 14,000 ft. and dominate the rugged terrain.<br><br><ul class=\"bb_ul\"><li> Hit the slopes and choose between <strong>skiing</strong>, <strong>snowboarding</strong>, and <strong>wingsuiting</strong> your way to the finish!<br></li><li> Fight the clock and the terrain- drop down sheer cliffs, soar over glaciers, and slide across frozen lakes, dense forests and abandoned towns.<br></li><li> Obliterate every speed record in the <strong>downhill race</strong>, score the highest points with the sickest tricks in <strong>freestyle</strong>, or navigate the perfect line in <strong>slalom</strong>.<br></li><li> Adjustable comfort settings and gameplay <strong>optimized to reduce VR motion sickness</strong>.<br></li><li> Choose between <strong>arcade</strong> and <strong>simulation</strong> styles to enhance the feeling of shredding the mountainside and the raw thrill of catching big air.</li></ul>",
+        "short_description": "Master the mountain from 14,000 ft in this extreme winter sports VR game. Ski, snowboard and wingsuit through ice and snow at crushing velocity. Race the clock and dominate the terrain with speed and skill.",
+        "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "reviews": "“Powder VR gives you an enormous mountain range to claim as your own. It’s chock full of massive drops, steep slopes and plenty of chances to show off your skills.”<br>UploadVR<br><br>“I had the pleasure of sitting down with Jim Brodbeck, the main developer of RainSoft Games, to talk about his upcoming title Powder VR, a game that will make you do some crazy stunts in the snow.”<br>The Ghost Howls<br><br>“An extreme sports sim, Powder VR combines Skiing, snowboarding and wing suiting into one adrenaline-filled experience.”<br>VRFocus<br>",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/header.jpg?t=1670838188",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/capsule_231x87.jpg?t=1670838188",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/capsule_184x69.jpg?t=1670838188",
+        "website": "http://powdervrgame.com",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> Intel Core i5-4570 / AMD FX 8300<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>VR Support:</strong> SteamVR. Standing or Room Scale</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 / AMD RYZEN 7<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong> Geforce RTX 2080<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "RainSoft"
+        ],
+        "publishers": [
+            "RainSoft"
+        ],
+        "demos": [
+            {
+                "appid": 1504420,
+                "description": ""
+            }
+        ],
+        "price_overview": {
+            "currency": "CHF",
+            "initial": 1950,
+            "final": 1950,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CHF 19.50"
+        },
+        "packages": [
+            349682
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Terje Haakonsen's Powder VR",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 349682,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Powder VR - CHF 19.50",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 1950
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 52,
+                "description": "Tracked Controller Support"
+            },
+            {
+                "id": 54,
+                "description": "VR Only"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_877de029509b12e3fba7b16edb69d55bcca7ba87.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_877de029509b12e3fba7b16edb69d55bcca7ba87.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_629135b98528a63b678e4e703ff0e8d6a0cacf48.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_629135b98528a63b678e4e703ff0e8d6a0cacf48.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_31ffb94f00de70d5a8cb741efebe19a4087d34d6.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_31ffb94f00de70d5a8cb741efebe19a4087d34d6.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_ec7553687aa48744f91d5ab1b458fd8d7fb3fe2f.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_ec7553687aa48744f91d5ab1b458fd8d7fb3fe2f.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_1d0b39804ca9235d9cfcc1eabee5beadc4801dd5.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_1d0b39804ca9235d9cfcc1eabee5beadc4801dd5.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_38fedba5d2852d4cebc32852d2ed9beb486cd9b6.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_38fedba5d2852d4cebc32852d2ed9beb486cd9b6.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_368824a63adbb58e95be3f63b212a2d1a408ec28.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_368824a63adbb58e95be3f63b212a2d1a408ec28.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_0e1498964c6834b4a55ae418dd4b481824055fd8.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_0e1498964c6834b4a55ae418dd4b481824055fd8.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_2c56d798ca0797a323b2ecaf00b2848169e4c02c.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_2c56d798ca0797a323b2ecaf00b2848169e4c02c.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_43f1751fb9bf55c5d4942d95798d6dcb1791fd47.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_43f1751fb9bf55c5d4942d95798d6dcb1791fd47.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_d1a47402cce34526671b87974c560650a1edd9e5.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_d1a47402cce34526671b87974c560650a1edd9e5.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_25bbbfd0cad04db139693202769e24b924d0ba38.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_25bbbfd0cad04db139693202769e24b924d0ba38.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 12,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_4efa1257b509180b7d6f6bb6f82764d2d5ba78fb.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_4efa1257b509180b7d6f6bb6f82764d2d5ba78fb.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 13,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_e4a7e28995e193640994823231044dfe6c1d134f.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_e4a7e28995e193640994823231044dfe6c1d134f.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 14,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_ff313a1b40a440b22351828e93bf3ffa78ab3534.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_ff313a1b40a440b22351828e93bf3ffa78ab3534.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 15,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_e4637bee04b6bf71bf147c92e0e95ff10ff2a66a.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_e4637bee04b6bf71bf147c92e0e95ff10ff2a66a.1920x1080.jpg?t=1670838188"
+            },
+            {
+                "id": 16,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_4966a6c9f4620da7636db7f652d6d9a27f5b2f60.600x338.jpg?t=1670838188",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1048580/ss_4966a6c9f4620da7636db7f652d6d9a27f5b2f60.1920x1080.jpg?t=1670838188"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256770632,
+                "name": "Reveal Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770632/movie.293x165.jpg?t=1576802781",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1048580/258519/4a99b850ee1938edc2a4c9285cdb51ef8631b811/1751181253/dash_av1.mpd?t=1576802781",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1048580/258519/4a99b850ee1938edc2a4c9285cdb51ef8631b811/1751181253/dash_h264.mpd?t=1576802781",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1048580/258519/4a99b850ee1938edc2a4c9285cdb51ef8631b811/1751181253/hls_264_master.m3u8?t=1576802781",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "16 Dec, 2020"
+        },
+        "support_info": {
+            "url": "http://www.rainsoftgames.com",
+            "email": "support@rainsoftgames.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1048580?t=1670838188",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1048580?t=1670838188",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "14",
+                "required_age": "14",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Linguagem imprópria\nDrogas ilícitas\nViolência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Drogen\nGewalt\nDerbe Sprache"
+            }
+        }
+    },
+    "2097160": {
+        "type": "game",
+        "name": "Monster Mystery",
+        "steam_appid": 2097160,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "“It’s so much darker when a light goes out than it would have been if it had never shone.” - John Steinbeck<br><br>(MONSTER MYSTERY) It is a 3 - 10 player Third Person Survival Multiplayer game where the players take the role of an Explorer or the Hidden.<br><br>As the Explorer, the player tries to find out the identity of the Hidden. You do this by fixing Generators around the map that then turn on the Big Generator that reveals the identity of the Hidden.<br><br>As the Hidden, the player turns in and out of the Monster forum to try and kill the Explorers without the Explorers finding out who they are.<br><br>Vision: The night is dark and your lanterns are dim. You must refuel your lanterns at fireplaces scattered around the map, but make sure to fill them with boards because when they all go out all hope is lost.<br><br>ITEMS: There are many items scattered throughout the map that the explorers will need to fix the Generators. These items are the <strong>Axe, Toolbox, Batteries, Boards</strong> and the <strong>Blunderbuss</strong>.<br><br>The Explorers win by killing the Hidden and the Hidden wins if they kill all Explorers.",
+        "about_the_game": "“It’s so much darker when a light goes out than it would have been if it had never shone.” - John Steinbeck<br><br>(MONSTER MYSTERY) It is a 3 - 10 player Third Person Survival Multiplayer game where the players take the role of an Explorer or the Hidden.<br><br>As the Explorer, the player tries to find out the identity of the Hidden. You do this by fixing Generators around the map that then turn on the Big Generator that reveals the identity of the Hidden.<br><br>As the Hidden, the player turns in and out of the Monster forum to try and kill the Explorers without the Explorers finding out who they are.<br><br>Vision: The night is dark and your lanterns are dim. You must refuel your lanterns at fireplaces scattered around the map, but make sure to fill them with boards because when they all go out all hope is lost.<br><br>ITEMS: There are many items scattered throughout the map that the explorers will need to fix the Generators. These items are the <strong>Axe, Toolbox, Batteries, Boards</strong> and the <strong>Blunderbuss</strong>.<br><br>The Explorers win by killing the Hidden and the Hidden wins if they kill all Explorers.",
+        "short_description": "A game of survival and Mystery. 3 - 10 Explorers find themselves deep in the mountains of Transylvania. They must stay in the light or die in the dark for within one of them lies a monster. This was a student project which we plan to slowly complete over the next year.",
+        "supported_languages": "English",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/header.jpg?t=1675359049",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/capsule_231x87.jpg?t=1675359049",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/capsule_184x69.jpg?t=1675359049",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Quad-core Intel or AMD, 2.5 GHz<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Requires a 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Core i7-4770K or AMD Ryzen 5 2600<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "Monster Mystery"
+        ],
+        "publishers": [
+            "Monster Mystery"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 9,
+                "description": "Co-op"
+            },
+            {
+                "id": 38,
+                "description": "Online Co-op"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_f131e2d369a77d6ad398ad57eb032f9f89e0bfce.600x338.jpg?t=1675359049",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_f131e2d369a77d6ad398ad57eb032f9f89e0bfce.1920x1080.jpg?t=1675359049"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_94640b4e7799a5d6e368496a844ed10161359a98.600x338.jpg?t=1675359049",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_94640b4e7799a5d6e368496a844ed10161359a98.1920x1080.jpg?t=1675359049"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_8ba14f4dac424b36fc3ad16d25b5e64aedd7051c.600x338.jpg?t=1675359049",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_8ba14f4dac424b36fc3ad16d25b5e64aedd7051c.1920x1080.jpg?t=1675359049"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_debdfcb8210de20c77b9f4e7a6cea7960e2044dc.600x338.jpg?t=1675359049",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_debdfcb8210de20c77b9f4e7a6cea7960e2044dc.1920x1080.jpg?t=1675359049"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_6286a35d1483cb90452aa9d002cccff58349aa73.600x338.jpg?t=1675359049",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097160/ss_6286a35d1483cb90452aa9d002cccff58349aa73.1920x1080.jpg?t=1675359049"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256911954,
+                "name": "Monster Mystery",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911954/movie.293x165.jpg?t=1666759213",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2097160/506665/14685a19dfd885e13a37cea4a6b835caf0c9d2c8/1751075383/dash_av1.mpd?t=1666759213",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2097160/506665/14685a19dfd885e13a37cea4a6b835caf0c9d2c8/1751075383/dash_h264.mpd?t=1666759213",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2097160/506665/14685a19dfd885e13a37cea4a6b835caf0c9d2c8/1751075383/hls_264_master.m3u8?t=1666759213",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "8 Dec, 2022"
+        },
+        "support_info": {
+            "url": "",
+            "email": "monster.mystery.studio@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2097160?t=1675359049",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2097160?t=1675359049",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "10",
+                "required_age": "10",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Medo"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    },
+    "10": {
+        "type": "game",
+        "name": "Counter-Strike",
+        "steam_appid": 10,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "about_the_game": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "short_description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team's success. Your team's success affects your role.",
+        "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/capsule_231x87.jpg?t=1745368572",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/capsule_184x69.jpg?t=1745368572",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "\n\t\t\t<p><strong>Minimum:</strong> 500 mhz processor, 96mb ram, 16mb video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\n\t\t\t<p><strong>Recommended:</strong> 800 mhz processor, 128mb ram, 32mb+ video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\n\t\t\t"
+        },
+        "mac_requirements": {
+            "minimum": "Minimum: OS X  Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse, Keyboard, Internet Connection"
+        },
+        "linux_requirements": {
+            "minimum": "Minimum: Linux Ubuntu 12.04, Dual-core from Intel or AMD at 2.8 GHz, 1GB Memory, nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1, 4GB Hard Drive Space, OpenAL Compatible Sound Card"
+        },
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "CHF",
+            "initial": 1050,
+            "final": 1050,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CHF 10.50"
+        },
+        "packages": [
+            574941,
+            7
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Counter-Strike",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 7,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Counter-Strike: Condition Zero - CHF 10.50",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 1050
+                    },
+                    {
+                        "packageid": 574941,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Counter-Strike - Commercial License - CHF 10.50",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 1050
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 88,
+            "url": "https://www.metacritic.com/game/pc/counter-strike?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 66,
+                "description": "Color Alternatives"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000132.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000133.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000134.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000135.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000000136.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002540.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002539.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002538.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002537.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002536.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002541.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002542.1920x1080.jpg?t=1745368572"
+            },
+            {
+                "id": 12,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.600x338.jpg?t=1745368572",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/0000002543.1920x1080.jpg?t=1745368572"
+            }
+        ],
+        "recommendations": {
+            "total": 164409
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Nov, 2000"
+        },
+        "support_info": {
+            "url": "http://steamcommunity.com/app/10",
+            "email": ""
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/10?t=1745368572",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/10?t=1745368572",
+        "content_descriptors": {
+            "ids": [
+                2,
+                5
+            ],
+            "notes": "Includes intense violence and blood."
+        },
+        "ratings": {
+            "usk": {
+                "rating": "16"
+            },
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "14",
+                "required_age": "14",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "16",
+                "required_age": "16",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Drastische Gewalt"
+            }
+        }
+    },
+    "3145740": {
+        "type": "game",
+        "name": "VRider SBK™",
+        "steam_appid": 3145740,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.poster.avif?t=1755123856\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.webm?t=1755123856\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.mp4?t=1755123856\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" ><strong>VRider</strong> <strong>SBK™</strong> is the <strong>first-ever Virtual Reality Superbike racing simulator</strong> built from the ground up for an immersive VR racing experience. Designed to deliver <strong>the raw thrill of real two-wheel racing</strong>, it puts you in full control—every tilt, throttle, and turn is yours to master.</p><p class=\"bb_paragraph\" >Get ready for next-gen racing, built with an optimized rendering pipeline that fully leverages the power of Steam VR for maximum performance and immersion.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/1ce6a1dcd1ee3486c6d2f16e91b7c57c.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/1ce6a1dcd1ee3486c6d2f16e91b7c57c.avif?t=1755123856 width=800 height=216 /></span> </p><h2 class=\"bb_tag\" ><strong>Single Player Modes</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🏁 Tournament Mode</strong><br>Rise through the ranks in a structured championship journey against AI riders. Unlock new tracks and challenges as you progress through circuits across the globe.</p></li><li><p class=\"bb_paragraph\" ><strong>🔥 Quick Race</strong><br>Jump straight into the action with your favorite track and bike against 22 AI. Perfect for a quick adrenaline hit.</p></li><li><p class=\"bb_paragraph\" ><strong>🕒 Hot Lap</strong><br>Race against the clock to set the best lap time. Ideal for perfecting your lines and mastering each circuit.</p></li><li><p class=\"bb_paragraph\" ><strong>🧪 Free Practice</strong><br>Explore any track at your own pace without pressure. A safe space to test handling and experiment with techniques.</p></li><li><p class=\"bb_paragraph\" ><strong>⏱️ Endurance Mode</strong><br>Long-distance races that test your consistency, focus, and stamina. Ideal for seasoned riders looking for a challenge.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/d27c92c65cceee39ccace8bffd7d6f39.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/d27c92c65cceee39ccace8bffd7d6f39.avif?t=1755123856 width=800 height=216 /></span></p><h2 class=\"bb_tag\" ><strong>Multiplayer Modes</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🆚 Competitive Multiplayer (PvP)</strong> <br>Challenge rivals in high-speed, real-time races where every move counts. Collide, overtake, and fight for victory in a championship journey packed with pure VR racing adrenaline.</p></li><li><p class=\"bb_paragraph\" ><strong>📈 Asynchronous Multiplayer (Ghost Challenges)</strong><br>Record your best lap and challenge friends or global players to beat their ghost. Compete anytime, anywhere.</p></li><li><p class=\"bb_paragraph\" ><strong>🎉 Casual Race</strong><br>A laid-back, real-time multiplayer mode for fun races without collisions among players.</p></li><li><p class=\"bb_paragraph\" ><strong>👀 Spectator Mode</strong><br>Watch live multiplayer races in real time from multiple dynamic camera angles. Great for friends, fans, or content creators.</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" ><strong>Tracks &amp; Environments</strong> </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >🧭 <strong>14 Real-World-Inspired Circuits</strong> <br>Race across<strong> official, real-world racing circuits</strong>, faithfully recreated with stunning detail and optimized for VR. These are not fantasy environments, they’re the same legendary tracks used in professional superbike racing, fully licensed and brought to life with immersive visuals and precise layout accuracy.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/5a27645bb91c448706a3634277db096a.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/5a27645bb91c448706a3634277db096a.avif?t=1755123856 width=800 height=216 /></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Bikes</strong> </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🏆 22 AI Riders</strong>  <br>Each with unique racing styles and difficulty levels, face off against the best.</p></li><li><p class=\"bb_paragraph\" >🏍️ <strong>Official Bikes from Real-World Brands</strong><br><strong>Motorcycles</strong> from <strong>five iconic commercial brands</strong>, allowing players to ride the same high-performance machines available on the market today.</p><p class=\"bb_paragraph\" ><u><strong>Featured Brands:</strong></u><strong> Ducati, Yamaha, BMW, Kawasaki &amp; Honda</strong></p><p class=\"bb_paragraph\" >These aren't fictional replicas, <u>each bike has been meticulously recreated</u> based on real-world data, offering <strong>authentic performance, handling, and design true to the brand's DNA.</strong> Whether you're a fan of Italian elegance or Japanese engineering, <strong>VRider</strong> <strong>SBK™</strong> puts you in the saddle of bikes you can find in real dealerships.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/94783716fcf4280a174fcc076597213b.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/94783716fcf4280a174fcc076597213b.avif?t=1755123856 width=800 height=226 /></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Competitive Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >📊 <strong>Global Leaderboards</strong><br>Take on the world in <strong>cross-platform competitive challenges</strong>. Climb the global rankings and prove you’re the fastest rider out there.</p></li><li><p class=\"bb_paragraph\" ><strong>🎮 Cross-Platform Competition</strong> <br>Compete with players across Steam VR, Meta, and Pico devices.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/c3c2389ed10f26b6fc86790468e45ea5.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/c3c2389ed10f26b6fc86790468e45ea5.avif?t=1755123856 width=800 height=268 /></span></p></li></ul><p class=\"bb_paragraph\" >Whether you’re chasing lap records, unlocking new circuits, or simply enjoying the sensation of leaning into a high-speed turn, <strong>VRider</strong> <strong>SBK™ offers the most intense and authentic motorcycle experience ever created in VR.</strong></p><p class=\"bb_paragraph\" >It's time to step in and <strong>leave your mark in the racing world!</strong></p>",
+        "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.poster.avif?t=1755123856\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.webm?t=1755123856\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/9a14d599142d50bbd5bd67a306f1b67e.mp4?t=1755123856\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" ><strong>VRider</strong> <strong>SBK™</strong> is the <strong>first-ever Virtual Reality Superbike racing simulator</strong> built from the ground up for an immersive VR racing experience. Designed to deliver <strong>the raw thrill of real two-wheel racing</strong>, it puts you in full control—every tilt, throttle, and turn is yours to master.</p><p class=\"bb_paragraph\" >Get ready for next-gen racing, built with an optimized rendering pipeline that fully leverages the power of Steam VR for maximum performance and immersion.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/1ce6a1dcd1ee3486c6d2f16e91b7c57c.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/1ce6a1dcd1ee3486c6d2f16e91b7c57c.avif?t=1755123856 width=800 height=216 /></span> </p><h2 class=\"bb_tag\" ><strong>Single Player Modes</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🏁 Tournament Mode</strong><br>Rise through the ranks in a structured championship journey against AI riders. Unlock new tracks and challenges as you progress through circuits across the globe.</p></li><li><p class=\"bb_paragraph\" ><strong>🔥 Quick Race</strong><br>Jump straight into the action with your favorite track and bike against 22 AI. Perfect for a quick adrenaline hit.</p></li><li><p class=\"bb_paragraph\" ><strong>🕒 Hot Lap</strong><br>Race against the clock to set the best lap time. Ideal for perfecting your lines and mastering each circuit.</p></li><li><p class=\"bb_paragraph\" ><strong>🧪 Free Practice</strong><br>Explore any track at your own pace without pressure. A safe space to test handling and experiment with techniques.</p></li><li><p class=\"bb_paragraph\" ><strong>⏱️ Endurance Mode</strong><br>Long-distance races that test your consistency, focus, and stamina. Ideal for seasoned riders looking for a challenge.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/d27c92c65cceee39ccace8bffd7d6f39.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/d27c92c65cceee39ccace8bffd7d6f39.avif?t=1755123856 width=800 height=216 /></span></p><h2 class=\"bb_tag\" ><strong>Multiplayer Modes</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🆚 Competitive Multiplayer (PvP)</strong> <br>Challenge rivals in high-speed, real-time races where every move counts. Collide, overtake, and fight for victory in a championship journey packed with pure VR racing adrenaline.</p></li><li><p class=\"bb_paragraph\" ><strong>📈 Asynchronous Multiplayer (Ghost Challenges)</strong><br>Record your best lap and challenge friends or global players to beat their ghost. Compete anytime, anywhere.</p></li><li><p class=\"bb_paragraph\" ><strong>🎉 Casual Race</strong><br>A laid-back, real-time multiplayer mode for fun races without collisions among players.</p></li><li><p class=\"bb_paragraph\" ><strong>👀 Spectator Mode</strong><br>Watch live multiplayer races in real time from multiple dynamic camera angles. Great for friends, fans, or content creators.</p><p class=\"bb_paragraph\" ></p></li></ul><h2 class=\"bb_tag\" ><strong>Tracks &amp; Environments</strong> </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >🧭 <strong>14 Real-World-Inspired Circuits</strong> <br>Race across<strong> official, real-world racing circuits</strong>, faithfully recreated with stunning detail and optimized for VR. These are not fantasy environments, they’re the same legendary tracks used in professional superbike racing, fully licensed and brought to life with immersive visuals and precise layout accuracy.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/5a27645bb91c448706a3634277db096a.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/5a27645bb91c448706a3634277db096a.avif?t=1755123856 width=800 height=216 /></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Bikes</strong> </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>🏆 22 AI Riders</strong>  <br>Each with unique racing styles and difficulty levels, face off against the best.</p></li><li><p class=\"bb_paragraph\" >🏍️ <strong>Official Bikes from Real-World Brands</strong><br><strong>Motorcycles</strong> from <strong>five iconic commercial brands</strong>, allowing players to ride the same high-performance machines available on the market today.</p><p class=\"bb_paragraph\" ><u><strong>Featured Brands:</strong></u><strong> Ducati, Yamaha, BMW, Kawasaki &amp; Honda</strong></p><p class=\"bb_paragraph\" >These aren't fictional replicas, <u>each bike has been meticulously recreated</u> based on real-world data, offering <strong>authentic performance, handling, and design true to the brand's DNA.</strong> Whether you're a fan of Italian elegance or Japanese engineering, <strong>VRider</strong> <strong>SBK™</strong> puts you in the saddle of bikes you can find in real dealerships.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/94783716fcf4280a174fcc076597213b.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/94783716fcf4280a174fcc076597213b.avif?t=1755123856 width=800 height=226 /></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Competitive Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >📊 <strong>Global Leaderboards</strong><br>Take on the world in <strong>cross-platform competitive challenges</strong>. Climb the global rankings and prove you’re the fastest rider out there.</p></li><li><p class=\"bb_paragraph\" ><strong>🎮 Cross-Platform Competition</strong> <br>Compete with players across Steam VR, Meta, and Pico devices.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras/c3c2389ed10f26b6fc86790468e45ea5.avif?t=1755123856\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/extras_big/c3c2389ed10f26b6fc86790468e45ea5.avif?t=1755123856 width=800 height=268 /></span></p></li></ul><p class=\"bb_paragraph\" >Whether you’re chasing lap records, unlocking new circuits, or simply enjoying the sensation of leaning into a high-speed turn, <strong>VRider</strong> <strong>SBK™ offers the most intense and authentic motorcycle experience ever created in VR.</strong></p><p class=\"bb_paragraph\" >It's time to step in and <strong>leave your mark in the racing world!</strong></p>",
+        "short_description": "Experience the thrill of VRIDER SBK™, the official VR World Superbike Championship racing game. Lean, accelerate, and compete against elite AI in Single Player or real players in stunning tracks inspired by real circuits in Multiplayer. Pure speed, intensity, and adrenaline right in your headset.",
+        "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Spanish - Latin America, Simplified Chinese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/724353f7eda79101479a70966fec59b25a9810ee/header.jpg?t=1755123856",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/9bdaa794e90192905a983f4d17322dd47df4ed87/capsule_231x87.jpg?t=1755123856",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/9bdaa794e90192905a983f4d17322dd47df4ed87/capsule_184x69.jpg?t=1755123856",
+        "website": "https://vridergame.com/",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit <br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7 6700k<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1070<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> Integrated<br></li><li><strong>VR Support:</strong> SteamVR, Oculus VR, OpenXR</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit <br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7-12700KF<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 4060 Ti<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Integrated<br></li><li><strong>VR Support:</strong> SteamVR, Oculus VR, OpenXR</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "Funny Tales"
+        ],
+        "publishers": [
+            "VRal Games"
+        ],
+        "price_overview": {
+            "currency": "CHF",
+            "initial": 3350,
+            "final": 3350,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CHF 33.50"
+        },
+        "packages": [
+            1116748
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy VRider SBK™",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 1116748,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "VRider SBK - CHF 33.50",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 3350
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 27,
+                "description": "Cross-Platform Multiplayer"
+            },
+            {
+                "id": 54,
+                "description": "VR Only"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "9",
+                "description": "Racing"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            },
+            {
+                "id": "18",
+                "description": "Sports"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/7038747af771538300e212bf230d1d354552447c/ss_7038747af771538300e212bf230d1d354552447c.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/7038747af771538300e212bf230d1d354552447c/ss_7038747af771538300e212bf230d1d354552447c.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/16b7fcbb7456914d294ae95bdf94732a919d5cc0/ss_16b7fcbb7456914d294ae95bdf94732a919d5cc0.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/16b7fcbb7456914d294ae95bdf94732a919d5cc0/ss_16b7fcbb7456914d294ae95bdf94732a919d5cc0.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/6e787ba7e66072ae4d5172a751f75ec85be87021/ss_6e787ba7e66072ae4d5172a751f75ec85be87021.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/6e787ba7e66072ae4d5172a751f75ec85be87021/ss_6e787ba7e66072ae4d5172a751f75ec85be87021.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/70b47a16ddc0ab6fbae303d4fb253e7854dd8185/ss_70b47a16ddc0ab6fbae303d4fb253e7854dd8185.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/70b47a16ddc0ab6fbae303d4fb253e7854dd8185/ss_70b47a16ddc0ab6fbae303d4fb253e7854dd8185.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/45252aef116d86ab6d5fb27a2953275d2722d0da/ss_45252aef116d86ab6d5fb27a2953275d2722d0da.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/45252aef116d86ab6d5fb27a2953275d2722d0da/ss_45252aef116d86ab6d5fb27a2953275d2722d0da.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/83fc4c21d945ec0643346f4a77ddf877fe4eb580/ss_83fc4c21d945ec0643346f4a77ddf877fe4eb580.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/83fc4c21d945ec0643346f4a77ddf877fe4eb580/ss_83fc4c21d945ec0643346f4a77ddf877fe4eb580.1920x1080.jpg?t=1755123856"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/d545606a40eafe57da49a53351907780e8c58841/ss_d545606a40eafe57da49a53351907780e8c58841.600x338.jpg?t=1755123856",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145740/d545606a40eafe57da49a53351907780e8c58841/ss_d545606a40eafe57da49a53351907780e8c58841.1920x1080.jpg?t=1755123856"
+            }
+        ],
+        "movies": [
+            {
+                "id": 257182864,
+                "name": "VRider SBK Gameplay Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182864/4439b91d6bf7be0d4f0803dd703702e03a16f882/movie_600x337.jpg?t=1755123855",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3145740/249644972/226c84eeb90c4e3ef37f8df3299320529b4e95c1/1755122242/dash_av1.mpd?t=1755123855",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3145740/249644972/226c84eeb90c4e3ef37f8df3299320529b4e95c1/1755122242/dash_h264.mpd?t=1755123855",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3145740/249644972/226c84eeb90c4e3ef37f8df3299320529b4e95c1/1755122242/hls_264_master.m3u8?t=1755123855",
+                "highlight": true
+            },
+            {
+                "id": 257126403,
+                "name": "VRider SBK Teaser",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257126403/9c9b0f3096351e2a86e596bd60c267aa441d5aa5/movie_600x337.jpg?t=1755118309",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3145740/704883506/cbe93e8c3b4892de4a81e7d7bef2a15ff0bbadeb/1750874860/dash_av1.mpd?t=1755118309",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3145740/704883506/cbe93e8c3b4892de4a81e7d7bef2a15ff0bbadeb/1750874860/dash_h264.mpd?t=1755118309",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3145740/704883506/cbe93e8c3b4892de4a81e7d7bef2a15ff0bbadeb/1750874860/hls_264_master.m3u8?t=1755118309",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "27 Jun, 2025"
+        },
+        "support_info": {
+            "url": "",
+            "email": "vridersbk@funnytales.us"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3145740?t=1755123856",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3145740?t=1755123856",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "l",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            }
+        }
+    },
+    "1572880": {
+        "type": "game",
+        "name": "Gentle Club",
+        "steam_appid": 1572880,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "detailed_description": "Gentle Club is a fighting simulator inspired by Hollywood movies, distinguished by the choreographed stunts the players perform while fighting in dynamic and destructible environments.<br />\r\n<br />\r\nPlayers will be able to interact with the environment (use a broken bottle to slice the opponent, break the window of an airplane and depressurize the cabin, throw any kind of objects on the opponent). <br />\r\n<br />\r\nAt the end of the fight, the players would have the opportunity to see the scene again in the form of an action scene.",
+        "about_the_game": "Gentle Club is a fighting simulator inspired by Hollywood movies, distinguished by the choreographed stunts the players perform while fighting in dynamic and destructible environments.<br />\r\n<br />\r\nPlayers will be able to interact with the environment (use a broken bottle to slice the opponent, break the window of an airplane and depressurize the cabin, throw any kind of objects on the opponent). <br />\r\n<br />\r\nAt the end of the fight, the players would have the opportunity to see the scene again in the form of an action scene.",
+        "short_description": "Gentle Club is a fighting simulator inspired by Hollywood movies, distinguished by the choreographed stunts the players perform while fighting in dynamic and destructible environments.",
+        "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/header.jpg?t=1695465754",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/capsule_231x87.jpg?t=1695465754",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/capsule_184x69.jpg?t=1695465754",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit or later<br></li><li><strong>Processor:</strong> Intel Core i3-6300T or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 470 GTX or AMD Radeon 6870 HD series card<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Anegar Games"
+        ],
+        "publishers": [
+            "Anegar Games"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_25d88d358d7a8cb0aa0e8a7f2816caadfb0e21cc.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_25d88d358d7a8cb0aa0e8a7f2816caadfb0e21cc.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_1206d9fedd56630a75c837b1f000426af703f9c4.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_1206d9fedd56630a75c837b1f000426af703f9c4.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_85400df1ff1a35dfcb5a500bae0eb754c4308998.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_85400df1ff1a35dfcb5a500bae0eb754c4308998.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_eb4c1db909c8402eec3d97efcea312fc180e8dc7.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_eb4c1db909c8402eec3d97efcea312fc180e8dc7.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_051b7cc5f31adf8917c52df7643be494f5dd3319.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_051b7cc5f31adf8917c52df7643be494f5dd3319.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_38e3e1c1410ef20664514bb67722023037018227.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_38e3e1c1410ef20664514bb67722023037018227.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_3f38a9db2e032f895edeb84f1841d311ca7bff55.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_3f38a9db2e032f895edeb84f1841d311ca7bff55.1920x1080.jpg?t=1695465754"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_54d2e6ccf07b5fc446ca825ea722f4df2bb7ffbc.600x338.jpg?t=1695465754",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1572880/ss_54d2e6ccf07b5fc446ca825ea722f4df2bb7ffbc.1920x1080.jpg?t=1695465754"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256833377,
+                "name": "Work in progress",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833377/movie.293x165.jpg?t=1620156123",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1572880/367214/e07fe209e3a273825b4b9acb8d41ae038f606c3e/1751004920/dash_av1.mpd?t=1620156123",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1572880/367214/e07fe209e3a273825b4b9acb8d41ae038f606c3e/1751004920/dash_h264.mpd?t=1620156123",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1572880/367214/e07fe209e3a273825b4b9acb8d41ae038f606c3e/1751004920/hls_264_master.m3u8?t=1620156123",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": true,
+            "date": "Coming soon"
+        },
+        "support_info": {
+            "url": "https://twitter.com/AnegarG",
+            "email": "anegargames@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1572880?t=1695465754",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1572880?t=1695465754",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "10",
+                "descriptors": "Violência",
+                "use_age_gate": "true",
+                "required_age": "10"
+            }
+        }
+    },
+    "2097170": {
+        "type": "game",
+        "name": "Iosis",
+        "steam_appid": 2097170,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/17e5c8c3b68205fd57dc7f5b0fbdae26.avif?t=1744567426\" width=600 height=67 /></span></p><p class=\"bb_paragraph\" >In Iosis, you control the Silver Guard, which protects the base from waves of corrupted metals with collisions. The main source of damage is momentum; the faster you are, the harder you hit. You can die and respawn in combat as long as your base is intact. As you progress through fast-paced runs, you will build your play style according to several aspects such as mobility, self-sacrifice, manipulation and control.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.poster.avif?t=1744567426\" width=766 height=92 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.webm?t=1744567426\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.mp4?t=1744567426\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Iosis is inspired from bullet hell and tower defense genres with a special emphasis on customizable runs that allow unique builds. Dying as the Silver Guard is only a temporary setback which unlocks builds that depend on self-damage and unleashes devastating power.</p><p class=\"bb_paragraph\" >  <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/92b02933d46ac838cd58a4b36a78f50b.avif?t=1744567426\" width=800 height=962 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/67f70119f535288bacfc66945d67ef6f.avif?t=1744567426\" width=600 height=67 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Collision-based close combat:</strong> The core combat depends on the momentum of the player as the main damage source. Basically, the faster you move, the higher the damage you deal. Becoming a massive object is also a way to increase your damage output but be careful not to restrict your mobility too much.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/60e5db1ac1dc33966800bb6d715c9aa0.avif?t=1744567426\" width=800 height=370 /></span> </p></li><li><p class=\"bb_paragraph\" > <strong>Over 60 collectible upgrades:</strong> In Iosis, the collectible upgrades come in various categories such as active <strong>spells</strong>, passive <strong>residues, unique</strong> power-ups and Vitriol <strong>seals</strong>. Residues are of various types; parametric upgrades, periodically activated effects, triggered effects based on collisions and dash-triggered to name a bunch. Spells work like weapons that generally define the core aspect of your build. Unique power-ups are powerful additions offering drastic additions to the power curve while seals offer upgrades to the Vitriol Vessel itself.<br>  </p></li><li><p class=\"bb_paragraph\" > <strong>Challenging enemy waves:</strong> The corruption of Aleno conquered all the lesser metals, Copper, Mercury, Iron, Lead and Tin. Increasingly powerful waves of corrupted metals seek to harm and destroy the Vessel. You need to develop defensive mechanisms to negate their combat advantages.  <br>  <br>  </p></li><li><p class=\"bb_paragraph\" > <strong>3 linearly progressive stages:</strong> Progress through the layers of alchemical space: Gates, Fountains and Towers. You will find the influence of Aleno increasing as you get closer and closer to the final confrontation.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.poster.avif?t=1744567426\" width=616 height=314 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.webm?t=1744567426\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.mp4?t=1744567426\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Iosis is inspired from occult alchemy themes where the main goal is to stop the corruption of Aleno and achieve purification through the four stages of alchemy: Nigredo, Albedo, Citrinitas, Rubedo. Protect the base which bears the Philosopher's Stone and undo the corruption that holds captive all metals.</p>",
+        "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/17e5c8c3b68205fd57dc7f5b0fbdae26.avif?t=1744567426\" width=600 height=67 /></span></p><p class=\"bb_paragraph\" >In Iosis, you control the Silver Guard, which protects the base from waves of corrupted metals with collisions. The main source of damage is momentum; the faster you are, the harder you hit. You can die and respawn in combat as long as your base is intact. As you progress through fast-paced runs, you will build your play style according to several aspects such as mobility, self-sacrifice, manipulation and control.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.poster.avif?t=1744567426\" width=766 height=92 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.webm?t=1744567426\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/24d5c214aa9caa3193826108c6a1d172.mp4?t=1744567426\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Iosis is inspired from bullet hell and tower defense genres with a special emphasis on customizable runs that allow unique builds. Dying as the Silver Guard is only a temporary setback which unlocks builds that depend on self-damage and unleashes devastating power.</p><p class=\"bb_paragraph\" >  <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/92b02933d46ac838cd58a4b36a78f50b.avif?t=1744567426\" width=800 height=962 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/67f70119f535288bacfc66945d67ef6f.avif?t=1744567426\" width=600 height=67 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Collision-based close combat:</strong> The core combat depends on the momentum of the player as the main damage source. Basically, the faster you move, the higher the damage you deal. Becoming a massive object is also a way to increase your damage output but be careful not to restrict your mobility too much.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/60e5db1ac1dc33966800bb6d715c9aa0.avif?t=1744567426\" width=800 height=370 /></span> </p></li><li><p class=\"bb_paragraph\" > <strong>Over 60 collectible upgrades:</strong> In Iosis, the collectible upgrades come in various categories such as active <strong>spells</strong>, passive <strong>residues, unique</strong> power-ups and Vitriol <strong>seals</strong>. Residues are of various types; parametric upgrades, periodically activated effects, triggered effects based on collisions and dash-triggered to name a bunch. Spells work like weapons that generally define the core aspect of your build. Unique power-ups are powerful additions offering drastic additions to the power curve while seals offer upgrades to the Vitriol Vessel itself.<br>  </p></li><li><p class=\"bb_paragraph\" > <strong>Challenging enemy waves:</strong> The corruption of Aleno conquered all the lesser metals, Copper, Mercury, Iron, Lead and Tin. Increasingly powerful waves of corrupted metals seek to harm and destroy the Vessel. You need to develop defensive mechanisms to negate their combat advantages.  <br>  <br>  </p></li><li><p class=\"bb_paragraph\" > <strong>3 linearly progressive stages:</strong> Progress through the layers of alchemical space: Gates, Fountains and Towers. You will find the influence of Aleno increasing as you get closer and closer to the final confrontation.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.poster.avif?t=1744567426\" width=616 height=314 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.webm?t=1744567426\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/extras/f80dd16328e1ea8e1d3b5ca10d76087f.mp4?t=1744567426\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Iosis is inspired from occult alchemy themes where the main goal is to stop the corruption of Aleno and achieve purification through the four stages of alchemy: Nigredo, Albedo, Citrinitas, Rubedo. Protect the base which bears the Philosopher's Stone and undo the corruption that holds captive all metals.</p>",
+        "short_description": "Iosis is an occult space defense roguelike which offers a large palette of tools for crafting unique play styles. It features close-up combat with the motto &quot;damage is momentum&quot;. Grow stronger as you devote to alchemical paths, collect talismans and spells to master sacrifice, manipulation and more.",
+        "supported_languages": "English<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/header.jpg?t=1744567426",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/capsule_231x87.jpg?t=1744567426",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/capsule_184x69.jpg?t=1744567426",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Kozegu Games"
+        ],
+        "publishers": [
+            "Kozegu Games"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "70",
+                "description": "Early Access"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_20566c1e1ef2d81c5c0178b1d682ed8ff6975a46.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_20566c1e1ef2d81c5c0178b1d682ed8ff6975a46.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_ccbd3c8b229c331d6154dce9cbfbb83c718fae70.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_ccbd3c8b229c331d6154dce9cbfbb83c718fae70.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_4c4ba3a44d6f1ec1b3e36707bc7a87616dbb0927.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_4c4ba3a44d6f1ec1b3e36707bc7a87616dbb0927.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_00335f4d08f2aad77022049e1e014c763def0a47.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_00335f4d08f2aad77022049e1e014c763def0a47.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_d90fcfb7532e05344ee911c5483d9e37804b0f98.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_d90fcfb7532e05344ee911c5483d9e37804b0f98.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_11dff50a8ffa1b3d9c9fbd739d511a97ecd9d266.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_11dff50a8ffa1b3d9c9fbd739d511a97ecd9d266.1920x1080.jpg?t=1744567426"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_91a1c67eedc5b57149fc31d67813baf8677c44f4.600x338.jpg?t=1744567426",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/ss_91a1c67eedc5b57149fc31d67813baf8677c44f4.1920x1080.jpg?t=1744567426"
+            }
+        ],
+        "movies": [
+            {
+                "id": 257098998,
+                "name": "Trailer 1",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257098998/52817a5d5a3bd22471a91c9332ce9158612d9482/movie_600x337.jpg?t=1739712851",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2097170/829969/4f941d01e61f7e51c79ded9904918f7c27db606f/1751075384/dash_av1.mpd?t=1739712851",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2097170/829969/4f941d01e61f7e51c79ded9904918f7c27db606f/1751075384/dash_h264.mpd?t=1739712851",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2097170/829969/4f941d01e61f7e51c79ded9904918f7c27db606f/1751075384/hls_264_master.m3u8?t=1739712851",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": true,
+            "date": "Coming soon"
+        },
+        "support_info": {
+            "url": "",
+            "email": "projectdodeca@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2097170?t=1744567426",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097170/page_bg_raw.jpg?t=1744567426",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "10",
+                "descriptors": "Violência",
+                "use_age_gate": "true",
+                "required_age": "10"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "16",
+                "required_age": "16",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Drastische Gewalt"
+            }
+        }
+    },
+    "20": {
+        "type": "game",
+        "name": "Team Fortress Classic",
+        "steam_appid": 20,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+        "about_the_game": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+        "short_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+        "supported_languages": "English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/header.jpg?t=1745368565",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/capsule_231x87.jpg?t=1745368565",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/capsule_184x69.jpg?t=1745368565",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "\n\t\t\t<p><strong>Minimum:</strong> 500 mhz processor, 96mb ram, 16mb video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\n\t\t\t<p><strong>Recommended:</strong> 800 mhz processor, 128mb ram, 32mb+ video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\n\t\t\t"
+        },
+        "mac_requirements": {
+            "minimum": "Minimum: OS X  Snow Leopard 10.6.3, 1GB RAM, 4GB Hard Drive Space,NVIDIA GeForce 8 or higher, ATI X1600 or higher, or Intel HD 3000 or higher Mouse, Keyboard, Internet Connection"
+        },
+        "linux_requirements": {
+            "minimum": "Minimum: Linux Ubuntu 12.04, Dual-core from Intel or AMD at 2.8 GHz, 1GB Memory, nVidia GeForce 8600/9600GT, ATI/AMD Radeaon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1, 4GB Hard Drive Space, OpenAL Compatible Sound Card"
+        },
+        "developers": [
+            "Valve"
+        ],
+        "publishers": [
+            "Valve"
+        ],
+        "price_overview": {
+            "currency": "CHF",
+            "initial": 549,
+            "final": 549,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "CHF 5.49"
+        },
+        "packages": [
+            29
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Team Fortress Classic",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 29,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Team Fortress Classic - CHF 5.49",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 549
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "categories": [
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 68,
+                "description": "Custom Volume Controls"
+            },
+            {
+                "id": 75,
+                "description": "Keyboard Only Option"
+            },
+            {
+                "id": 69,
+                "description": "Stereo Sound"
+            },
+            {
+                "id": 8,
+                "description": "Valve Anti-Cheat enabled"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.600x338.jpg?t=1745368565",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.1920x1080.jpg?t=1745368565"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.600x338.jpg?t=1745368565",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.1920x1080.jpg?t=1745368565"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.600x338.jpg?t=1745368565",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.1920x1080.jpg?t=1745368565"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.600x338.jpg?t=1745368565",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.1920x1080.jpg?t=1745368565"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.600x338.jpg?t=1745368565",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.1920x1080.jpg?t=1745368565"
+            }
+        ],
+        "recommendations": {
+            "total": 6725
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Apr, 1999"
+        },
+        "support_info": {
+            "url": "",
+            "email": ""
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/20?t=1745368565",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/20?t=1745368565",
+        "content_descriptors": {
+            "ids": [
+                2,
+                5
+            ],
+            "notes": "Includes intense violence and blood."
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "10",
+                "required_age": "10",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    },
+    "2621460": {
+        "type": "game",
+        "name": "Arcane Fighters",
+        "steam_appid": 2621460,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "<strong>SOUL</strong><br>Step into the world of Arcane Fighters, where nostalgia meets fun and competitiveness. It's a blast from the past that captures the spirit of sharing a keyboard with friends, all while relishing the joy of local multiplayer gaming.<br><br><strong>MULTIPLAYER</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.poster.avif?t=1706715763\" width=506 height=284 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.webm?t=1706715763\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.mp4?t=1706715763\" type=\"video/mp4\"></video></span><br>Arcane Fighters is a thrilling 2D platform Player vs. Player (PvP) experience, where you can engage in magical battles against your friends, employing cunning strategies and MAGIC! Dive into the world of arcane warfare and choose from various unique spells, crafting your ultimate strategy to outwit and outmaneuver your opponents.<br><br><strong>SINGLEPLAYER</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.poster.avif?t=1706715763\" width=506 height=284 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.webm?t=1706715763\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.mp4?t=1706715763\" type=\"video/mp4\"></video></span><br>Arcane fighters also have a single player. That is targeted at player scores against other players around the world. A player is going to fight against a few enemies with time getting harder to survive and get a better score.<br><br><strong>STORY</strong><br>It isn't just a game; it's a time machine to those memorable moments when laughter filled the room and the competition was fierce. In an era dominated by online play, Arcane Fighters harks back to when gathering around a single screen was the pinnacle of gaming excitement.<br><br>Rediscover the thrill of shared controllers, the camaraderie of local play, and the joy of friendly rivalry with up to three friends. It's your chance to create new memories while treasuring the old ones.<br><br>Arcane Fighters: More than a game, it's a celebration of the past and a doorway to the future.",
+        "about_the_game": "<strong>SOUL</strong><br>Step into the world of Arcane Fighters, where nostalgia meets fun and competitiveness. It's a blast from the past that captures the spirit of sharing a keyboard with friends, all while relishing the joy of local multiplayer gaming.<br><br><strong>MULTIPLAYER</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.poster.avif?t=1706715763\" width=506 height=284 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.webm?t=1706715763\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/e275dcdba248ecc69e670cc7c152b6ff.mp4?t=1706715763\" type=\"video/mp4\"></video></span><br>Arcane Fighters is a thrilling 2D platform Player vs. Player (PvP) experience, where you can engage in magical battles against your friends, employing cunning strategies and MAGIC! Dive into the world of arcane warfare and choose from various unique spells, crafting your ultimate strategy to outwit and outmaneuver your opponents.<br><br><strong>SINGLEPLAYER</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.poster.avif?t=1706715763\" width=506 height=284 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.webm?t=1706715763\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/extras/63741fac2ac2a3823ebc4f0b5e56796c.mp4?t=1706715763\" type=\"video/mp4\"></video></span><br>Arcane fighters also have a single player. That is targeted at player scores against other players around the world. A player is going to fight against a few enemies with time getting harder to survive and get a better score.<br><br><strong>STORY</strong><br>It isn't just a game; it's a time machine to those memorable moments when laughter filled the room and the competition was fierce. In an era dominated by online play, Arcane Fighters harks back to when gathering around a single screen was the pinnacle of gaming excitement.<br><br>Rediscover the thrill of shared controllers, the camaraderie of local play, and the joy of friendly rivalry with up to three friends. It's your chance to create new memories while treasuring the old ones.<br><br>Arcane Fighters: More than a game, it's a celebration of the past and a doorway to the future.",
+        "short_description": "Arcane Fighters is 2D platform PvP where you can fight against your friends using magic, strategy and ... MAGIC! Choose from many unique spells and set up your build to outsmart opponents.",
+        "supported_languages": "English",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/header.jpg?t=1706715763",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/capsule_231x87.jpg?t=1706715763",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/capsule_184x69.jpg?t=1706715763",
+        "website": "https://sleepingunicornstudios.com/",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics 9th gen<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 880<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Sleeping Unicorn Studios"
+        ],
+        "publishers": [
+            "Sleeping Unicorn Studios"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 1,
+                "description": "Multi-player"
+            },
+            {
+                "id": 49,
+                "description": "PvP"
+            },
+            {
+                "id": 36,
+                "description": "Online PvP"
+            },
+            {
+                "id": 37,
+                "description": "Shared/Split Screen PvP"
+            },
+            {
+                "id": 24,
+                "description": "Shared/Split Screen"
+            },
+            {
+                "id": 25,
+                "description": "Steam Leaderboards"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_1fb845ae76814d556fd0adf46779754ebfeafe74.600x338.jpg?t=1706715763",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_1fb845ae76814d556fd0adf46779754ebfeafe74.1920x1080.jpg?t=1706715763"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_b1d2392e585265be055be7e15f4c72355e793919.600x338.jpg?t=1706715763",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_b1d2392e585265be055be7e15f4c72355e793919.1920x1080.jpg?t=1706715763"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_b2dc03d4bd46d7686311d8e6875bc3a9b9b1ad96.600x338.jpg?t=1706715763",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_b2dc03d4bd46d7686311d8e6875bc3a9b9b1ad96.1920x1080.jpg?t=1706715763"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_e34fb8c005693845a6759eddec008eb378a44157.600x338.jpg?t=1706715763",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_e34fb8c005693845a6759eddec008eb378a44157.1920x1080.jpg?t=1706715763"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_856c5655da83f5b05ac8039ad761eebb58040eb2.600x338.jpg?t=1706715763",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621460/ss_856c5655da83f5b05ac8039ad761eebb58040eb2.1920x1080.jpg?t=1706715763"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256997396,
+                "name": "Arcane Fighters trailer #2",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256997396/movie.293x165.jpg?t=1706615188",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2621460/656249/2811dab4f028ea5207c0efa131825d29d2671b42/1750937073/dash_av1.mpd?t=1706615188",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2621460/656249/2811dab4f028ea5207c0efa131825d29d2671b42/1750937073/dash_h264.mpd?t=1706615188",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2621460/656249/2811dab4f028ea5207c0efa131825d29d2671b42/1750937073/hls_264_master.m3u8?t=1706615188",
+                "highlight": true
+            },
+            {
+                "id": 256974101,
+                "name": "Arcane Fighters trailer #1",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256974101/movie.293x165.jpg?t=1697610833",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2621460/615518/4f2767ce9a4888c380562da19a8e8fd8fe86bee7/1750937071/dash_av1.mpd?t=1697610833",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2621460/615518/4f2767ce9a4888c380562da19a8e8fd8fe86bee7/1750937071/dash_h264.mpd?t=1697610833",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2621460/615518/4f2767ce9a4888c380562da19a8e8fd8fe86bee7/1750937071/hls_264_master.m3u8?t=1697610833",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Jan, 2024"
+        },
+        "support_info": {
+            "url": "https://sleepingunicornstudios.com/",
+            "email": "studios.sleeping.unicorn@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2621460?t=1706715763",
+        "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2621460?t=1706715763",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "10",
+                "required_age": "10",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    },
+    "3145750": {
+        "type": "game",
+        "name": "Across Icaria",
+        "steam_appid": 3145750,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "<p class=\"bb_paragraph\" >A boy called Ica decide to visit sea.</p><p class=\"bb_paragraph\" > Born into a military empire, he was tired of war and inventing weapons. After transforming an old gunboat with stolen Flying Wings, Ica began his journey of escape. It is said that &quot;ships&quot; were originally used for &quot;navigation&quot;, but in this world, the sea has disappeared for half a century.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Features</strong></p><p class=\"bb_paragraph\" >Escape from the battlefield by gunboat, cross the Ikaria continent, and enjoy the vast world outside the restricted area.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.poster.avif?t=1741798358\" width=720 height=140 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Dispatch cannons, launch missiles, repair engines However, please note that operating the outdated gunboat system requires manual input of commands.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.poster.avif?t=1741798358\" width=800 height=156 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Confront all kinds of enemies - with your observation and typing speed!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.poster.avif?t=1741798358\" width=720 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>About</strong></p><p class=\"bb_paragraph\" >This mini game started with a gamejam, and with a passion for classic STG, typing games and 90s anime, we boldly attempted this experimental gameplay combination. After multiple rounds of adjustments and polishing, we realized our wish that more people to try this idea, so we decided to release it for free.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game consists of 6 levels and a carefully crafted fantasy story, hoping you will enjoy it.</p>",
+        "about_the_game": "<p class=\"bb_paragraph\" >A boy called Ica decide to visit sea.</p><p class=\"bb_paragraph\" > Born into a military empire, he was tired of war and inventing weapons. After transforming an old gunboat with stolen Flying Wings, Ica began his journey of escape. It is said that &quot;ships&quot; were originally used for &quot;navigation&quot;, but in this world, the sea has disappeared for half a century.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Features</strong></p><p class=\"bb_paragraph\" >Escape from the battlefield by gunboat, cross the Ikaria continent, and enjoy the vast world outside the restricted area.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.poster.avif?t=1741798358\" width=720 height=140 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/359076f08261e63af72ca12f23bc6440.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Dispatch cannons, launch missiles, repair engines However, please note that operating the outdated gunboat system requires manual input of commands.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.poster.avif?t=1741798358\" width=800 height=156 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/3eff451221c4605d72b97d73ac15cd91.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Confront all kinds of enemies - with your observation and typing speed!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.poster.avif?t=1741798358\" width=720 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.webm?t=1741798358\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/extras/670cce423eb0ad66182c48fad76af998.mp4?t=1741798358\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>About</strong></p><p class=\"bb_paragraph\" >This mini game started with a gamejam, and with a passion for classic STG, typing games and 90s anime, we boldly attempted this experimental gameplay combination. After multiple rounds of adjustments and polishing, we realized our wish that more people to try this idea, so we decided to release it for free.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game consists of 6 levels and a carefully crafted fantasy story, hoping you will enjoy it.</p>",
+        "short_description": "A boy called Ica decide to visit sea.",
+        "supported_languages": "English, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/header.jpg?t=1741798358",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/3c39704ff132aab5dd933ebf71b1d6e2dfffcee6/capsule_231x87.jpg?t=1741798358",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/3c39704ff132aab5dd933ebf71b1d6e2dfffcee6/capsule_184x69.jpg?t=1741798358",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit versions)<br></li><li><strong>Processor:</strong> Intel Core i5-8400<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 6GB<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit versions)<br></li><li><strong>Processor:</strong> Intel Core i7-9700<br></li><li><strong>Memory:</strong> 32 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 3060<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "IRON WING"
+        ],
+        "publishers": [
+            "IRON WING"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/ceb297e96537de2af659097e850997e8c46e1a52/ss_ceb297e96537de2af659097e850997e8c46e1a52.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/ceb297e96537de2af659097e850997e8c46e1a52/ss_ceb297e96537de2af659097e850997e8c46e1a52.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/33a7f4f95798accb9ba9611faac4d701b5aeda58/ss_33a7f4f95798accb9ba9611faac4d701b5aeda58.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/33a7f4f95798accb9ba9611faac4d701b5aeda58/ss_33a7f4f95798accb9ba9611faac4d701b5aeda58.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/ss_6c722e93e369fc11e4a7e2db745967a41487381e.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/ss_6c722e93e369fc11e4a7e2db745967a41487381e.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/a1d2369efb40e027fbb02aafd806f34b33157b70/ss_a1d2369efb40e027fbb02aafd806f34b33157b70.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/a1d2369efb40e027fbb02aafd806f34b33157b70/ss_a1d2369efb40e027fbb02aafd806f34b33157b70.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/501962f1fedc91f8b9a9a94cfe777a9d36e3cffe/ss_501962f1fedc91f8b9a9a94cfe777a9d36e3cffe.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/501962f1fedc91f8b9a9a94cfe777a9d36e3cffe/ss_501962f1fedc91f8b9a9a94cfe777a9d36e3cffe.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/54cfd0734298a5ee104d036b9377d61a998ccc3e/ss_54cfd0734298a5ee104d036b9377d61a998ccc3e.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/54cfd0734298a5ee104d036b9377d61a998ccc3e/ss_54cfd0734298a5ee104d036b9377d61a998ccc3e.1920x1080.jpg?t=1741798358"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/63b32ae768fb7ee1ff9bcebdab054561d53cdb8d/ss_63b32ae768fb7ee1ff9bcebdab054561d53cdb8d.600x338.jpg?t=1741798358",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/63b32ae768fb7ee1ff9bcebdab054561d53cdb8d/ss_63b32ae768fb7ee1ff9bcebdab054561d53cdb8d.1920x1080.jpg?t=1741798358"
+            }
+        ],
+        "movies": [
+            {
+                "id": 257112558,
+                "name": "Across_icaria_Trailer_EN",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257112558/654ad299396f5ebc386f3a036886ee5dae573d07/movie_600x337.jpg?t=1741622588",
+                "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3145750/848344/0866d04a44b6fdbf665e6ac131b0978271f14d98/1750874861/dash_av1.mpd?t=1741622588",
+                "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3145750/848344/0866d04a44b6fdbf665e6ac131b0978271f14d98/1750874861/dash_h264.mpd?t=1741622588",
+                "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3145750/848344/0866d04a44b6fdbf665e6ac131b0978271f14d98/1750874861/hls_264_master.m3u8?t=1741622588",
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "12 Mar, 2025"
+        },
+        "support_info": {
+            "url": "",
+            "email": "ironwinggame@gmail.com"
+        },
+        "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3145750?t=1741798358",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145750/page_bg_raw.jpg?t=1741798358",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "10",
+                "required_age": "10",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    }
+}
