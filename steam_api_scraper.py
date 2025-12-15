@@ -16,7 +16,7 @@ class ScraperConfig:
     steam_api_key: str = field(default_factory=lambda: os.getenv("STEAM_API_KEY"))
     checkpoint_dir: Path = Path("checkpoints")
     requests_per_5min: int = 200
-    checkpoint_interval: int = 2500
+    checkpoint_interval: int = 2000
     test_mode: bool = False
     test_limit: int = 20
 
