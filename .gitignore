@@ -5,3 +5,4 @@ checkpoints/
 
 # add _pycache__ folders
 **/__pycache__/
+__pycache__/steam_api_scraper.cpython-313.pyc
