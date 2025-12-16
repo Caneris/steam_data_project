@@ -2,6 +2,16 @@
 
 # everything in checkpoints folder
 checkpoints/
+# ignore any folder that contains checkpoint or output in its name
+**/*checkpoint*/
+**/*output*/
+# ignore any .csv files
+*.csv
+# ignore any .json and .jsonl files
+*.json
+*.jsonl
+# ignore any .env files
+*.env
 
 # add _pycache__ folders
 **/__pycache__/
