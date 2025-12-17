@@ -5,6 +5,7 @@ checkpoints/
 # ignore any folder that contains checkpoint or output in its name
 **/*checkpoint*/
 **/*output*/
+data/
 # ignore any .csv files
 *.csv
 # ignore any .json and .jsonl files
