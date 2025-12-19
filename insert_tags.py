@@ -61,11 +61,11 @@ def prepare_data(records: list[dict]) -> dict:
     
     Returns dict with:
         - tags: list of (tag_id, name) tuples
-        - game_tags: list of (appid, tag_id, votes) tuples
+        - game_tags: list of (appid, tag_id, votes, scraped_at) tuples
         - stats: summary statistics
     """
     tags = {}  # tagid -> name (deduped)
-    game_tags = []  # (appid, tagid, votes)
+    game_tags = []  # (appid, tagid, votes, scraped_at)
     
     apps_processed = 0
     apps_skipped_no_tags = 0
@@ -73,6 +73,7 @@ def prepare_data(records: list[dict]) -> dict:
     
     for record in records:
         appid = record['appid']
+        scraped_at = record.get('scraped_at')  # ISO format timestamp
         tag_list = record.get('data', {}).get('tags', [])
         
         if not tag_list:
@@ -94,10 +95,16 @@ def prepare_data(records: list[dict]) -> dict:
                 tagid = existing_id
             
             tags[tagid] = name
-            game_tags.append((appid, tagid, votes))
+            game_tags.append((appid, tagid, votes, scraped_at))
     
-    # Dedupe game_tags (shouldn't happen, but just in case)
-    game_tags_deduped = list(set(game_tags))
+    # Dedupe game_tags - now using (appid, tagid) as the key, keeping first occurrence
+    seen = set()
+    game_tags_deduped = []
+    for gt in game_tags:
+        key = (gt[0], gt[1])  # (appid, tagid)
+        if key not in seen:
+            seen.add(key)
+            game_tags_deduped.append(gt)
     
     return {
         'tags': [(tid, name) for tid, name in tags.items()],
@@ -183,10 +190,11 @@ def insert_batch(prepared: dict, dry_run: bool = False):
             
             print("  Inserting game_tags...")
             cur.executemany("""
-                INSERT INTO game_tags (appid, tag_id, votes)
-                VALUES (%s, %s, %s)
+                INSERT INTO game_tags (appid, tag_id, votes, scraped_at)
+                VALUES (%s, %s, %s, %s)
                 ON CONFLICT (appid, tag_id) DO UPDATE SET
-                    votes = EXCLUDED.votes
+                    votes = EXCLUDED.votes,
+                    scraped_at = EXCLUDED.scraped_at
             """, game_tags_filtered)
             print(f"    -> {len(game_tags_filtered)} game-tag relationships upserted")
             
